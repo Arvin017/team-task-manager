@@ -110,5 +110,4 @@ Global Member
   └── Can only access projects they've been added to
 ```
 
-## Demo Video
-_(Link to 2–5 min screen recording)_
+
